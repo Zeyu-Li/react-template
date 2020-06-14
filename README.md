@@ -3,6 +3,13 @@
 React is a JS library 
 
 
+## Renaming
+
+To rename the project, 
+
+1. rename the template directory
+2. in the package.json file, change the name parameter to the new name
+
 
 ## Running
 
