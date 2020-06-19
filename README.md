@@ -26,6 +26,12 @@ npm start
 create-react-app
 
 
+## Recommended Extensions
+
+Mozilla: https://addons.mozilla.org/en-CA/firefox/addon/react-devtools/
+
+Chrome: https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en
+
 
 ## Licence
 
